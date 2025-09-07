@@ -55,6 +55,11 @@ Grupos configurados no laboratório:
 
 👉 Usuários adicionados **via script/CLI 💻**, otimizando administração.  
 
+## Veja aqui a criação do script ✨
+
+👉 [Clique aqui para acessar o arquivo de criação do script (`setup.sh`)](./setup.sh)  
+
+
 ---
 
 ## 🛠️ Atividades Práticas  
@@ -89,11 +94,7 @@ Durante o laboratório, foi criado este diagrama no **Draw.io** para visualizar 
 5. **Fluxos 🔀**: caminhos de comunicação: Usuário → EC2 → EBS, EC2 → RDS, EC2 ↔ EBS.  
 
 ---
-## Veja aqui a criação do script ✨
 
-👉 [Clique aqui para acessar o arquivo de criação do script (`notas.md`)](./notas.md)  
-
----
 
 ## 💭 Reflexões Pessoais  
 
