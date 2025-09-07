@@ -111,8 +111,10 @@ Esse desafio permitiu:
 
 ---
 
-✨ **AutorA :** Patricia Oliveira
+✨ **Autora :** Patricia Oliveira    
 📌 Desafio do Bootcamp **Santander Coders Girls - DIO**  
+
+<a href="https://www.linkedin.com/in/savarezi"><img src="https://img.shields.io/badge/-LinkedIn-67cb57?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
 
 
 
