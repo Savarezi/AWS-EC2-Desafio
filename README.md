@@ -104,7 +104,16 @@ Esse desafio permitiu:
 - Praticar a **criação e gerenciamento de EC2 🖥️**.  
 - Utilizar serviços de **armazenamento em nuvem ☁️ (EBS e S3)**.  
 - Visualizar a arquitetura em nuvem com um **diagrama Draw.io 🗂️**.  
-- Registrar e compartilhar conhecimento no **GitHub 🐙**.  
+- Registrar e compartilhar conhecimento no **GitHub 🐙**.
+
+##
+
+
+---
+
+✨ **AutorA :** Patricia Oliveira
+📌 Desafio do Bootcamp **Santander Coders Girls - DIO**  
+
 
 
 
